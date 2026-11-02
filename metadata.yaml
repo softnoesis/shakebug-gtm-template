@@ -1,5 +1,5 @@
 homepage: "https://www.shakebug.com"
 documentation: "https://www.shakebug.com/docs/web"
 versions:
-  - sha: HEAD
+  - sha: 190422de96e5364ca7cc0ed8a86e7fb22561fc5c
     changeNotes: "Initial release of Shakebug Web SDK official Google Tag Manager template."
